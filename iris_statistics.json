@@ -1,0 +1,35 @@
+{
+    "SepalLengthCm": {
+        "max": 7.9,
+        "min": 4.3,
+        "mean": 5.843333333333334,
+        "sum": 876.5,
+        "std": 0.828066127977863
+    },
+    "SepalWidthCm": {
+        "max": 4.4,
+        "min": 2.0,
+        "mean": 3.0540000000000003,
+        "sum": 458.1,
+        "std": 0.4335943113621737
+    },
+    "PetalLengthCm": {
+        "max": 6.9,
+        "min": 1.0,
+        "mean": 3.758666666666666,
+        "sum": 563.8,
+        "std": 1.7644204199522626
+    },
+    "PetalWidthCm": {
+        "max": 2.5,
+        "min": 0.1,
+        "mean": 1.1986666666666668,
+        "sum": 179.8,
+        "std": 0.7631607417008411
+    },
+    "Species": {
+        "Iris-setosa": 50,
+        "Iris-versicolor": 50,
+        "Iris-virginica": 50
+    }
+}
